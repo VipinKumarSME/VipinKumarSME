@@ -20,8 +20,8 @@
 
 <p align="center">
 <a href="https://github.com/VipinKumarSME">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vipink1203&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vipink1203&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VipinKumarSME&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VipinKumarSME&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
