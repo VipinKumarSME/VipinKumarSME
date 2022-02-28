@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Working as Sr.DevSecOps Engineer.
 - 💼 &nbsp; Certified AWS Solutions Architect.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Machine Learning.
+- 🌱 &nbsp; More into Cloud Architecture, Systems Design, Automation, and Machine Learning.
 
 <h3>🛠 Tech Stack</h3>
 
