@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2> Hey there! I'm Vipin.</h2>
 
-<!--
-**VipinKumarSME/VipinKumarSME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Working as Sr.DevSecOps Engineer.
+- 💼 &nbsp; Certified AWS Solutions Architect.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Bash
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Django | Flask
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git
+- 🖥 &nbsp; AWS | Linux | Terraform
+
+<br/>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/VipinKumarSME">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vipink1203&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vipink1203&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vipink1203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vipin%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:vipink1203@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vipink1203@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
